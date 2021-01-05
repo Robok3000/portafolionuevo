@@ -1,0 +1,5 @@
+baseURL = "https://robok3000.github.io/"
+publishDir = "docs"
+languageCode = "es"
+title = "Mi Portafolio"
+theme = "hugo-UILite"
