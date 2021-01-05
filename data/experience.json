@@ -1,0 +1,40 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "Octuve 2020 - actualidad",
+			"company" : "Rombus Digital",
+			"website": "https://www.rombusglobal.com/",
+			"description" : "Encargado de gestionar y administrar todos los canales digitales de la compañia para aplicar estrategias y acciones destinadas al desarrollo del negocio con un fuerte acento en estrategias de contenido y comunicación, manejo de comunidad y medios; en línea con los objetivos de valor, misión y negocio de la empresa. "
+		},
+		{
+			"timeperiod" : "Septiembre 2020 - Present",
+			"company" : "Chowmi",
+			"website": "https://www.chowmi.net",
+			"description" : "Co fundador de Chowmi es un medio periodistico libre de publicidad y 100% financiado pos sus lectores."
+		},
+		{
+			"timeperiod" : "Junio 2020 - Julio 2020",
+			"company" : "Justo",
+			"website": "https://getjusto.com/",
+			"description" : "Redactor: Me dediqué a crear contenido y tutoriales para los clientes de Justo explicando cómo utilizar la plataforma."
+		},
+		{
+			"timeperiod" : "Agosto 2019 - Julio 2020",
+			"company" : "Buda",
+			"website": "https://buda.com/",
+			"description" : "Director Creativo: Mi objetivo principal que tuve en este cargo, fue la de crear una comunidad participativa que se sienta 100% comprometida en aprender y enseñar todo lo que gira en torno a las criptomonedas. Mi objetivo era generar temas de conversación para que las personas comprendan el por qué es tan importante conocer sobre estas alternativas financieras, y entiendan todo el trasfondo social y tecnológico que envuelven a Bitcoin. Ahora más que nunca, cuando el mundo entero está viviendo una revolución, es que hay que brindar una alternativa real a todos los que el actual sistema está dejando de lado."
+		},
+		{
+			"timeperiod" : "Mayo 2019 - Agosto 2019",
+			"company" : "Porta",
+			"website": "http://www.porta.cl/",
+			"description" : "Community Manager: Trabajé para las marcas Jugos Watts, Loncoleche Protein, Quesos Valdivia y para Cachantún, en los que tenía que generar contenido, planificar su publicación y atender los comentarios de los clientes."
+		},
+		{
+			"timeperiod" : "Agosto 2011 - marzo 2019",
+			"company" : "Mego ltda.",
+			"description" : "En esta empresa trabajé 8 años desempeñando el cargo de Director Creativo. Estuve a cargo del contenido de los sitios Porlaputa.com y de La Legal, como también de la venta de los espacios publicitarios."
+		}
+	]
+}

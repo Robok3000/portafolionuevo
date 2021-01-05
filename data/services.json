@@ -1,0 +1,25 @@
+{
+	"title" : "Servicios",
+	"services" : [
+		{
+			"icon" : "pencil-ruler",
+			"title" : "Redactor - UX Writing y Experto en Memes",
+			"description" : "Durante 15 años he estado trabajando al servicio de la memética. He creado memes tan conocidos como El Perro del Lusho, El Niño Iluminati, Las Chalas Zico entre otros. Además me he especializado en el UX Writing, redactando manuales de usuarios y tutoriales para apps como también para videojuegos."
+		},
+		{
+			"icon" : "pen-nib",
+			"title" : "Analista Digital",
+			"description" : "Con conocimientos en planificación y ejecución de estrategia SEO, medición de conversiones, generación de informes y presentación de métricas. Manejo Google Adwords, Facebook Business Manager y Google Analytics. "
+		},
+		{
+			"icon" : "pen-nib",
+			"title" : "Community Manager",
+			"description" : "He realizado trabajos de CM para diversas empresas entre las que se destacan: La Legal, Loncoleche, Quesos Las Parcelas de Valdivia, Buda.com, ROmbus Digital, entre otras marcas."
+		},
+		{
+			"icon" : "pen-nib",
+			"title" : "Máster en Comunidades",
+			"description" : "Poseo experiencia en el manejor de comunidades altamente participativas, tanto en el área de la entretención como en el mundo financiero, especialmente en el mundo cripto."
+		}
+	]
+}
