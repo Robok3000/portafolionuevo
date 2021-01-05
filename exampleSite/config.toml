@@ -1,4 +1,6 @@
-baseURL = "https://demo.uicard.io/hugo-uilite-free/"
+baseURL = "https://robok3000.github.io/portafolionuevo/"
 languageCode = "en-us"
-title = "Valentina"
+title = "Mi Portafolio"
 theme = "hugo-uilite"
+
+publishDir = "docs"

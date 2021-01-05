@@ -1,6 +1,0 @@
-baseURL = "https://robok3000.github.io/portafolionuevo/"
-languageCode = "en-us"
-title = "Mi Portafolio"
-theme = "hugo-uilite"
-
-publishDir = "docs"
