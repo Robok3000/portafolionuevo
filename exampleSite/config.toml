@@ -1,4 +1,4 @@
-baseURL = "https://robok3000.github.io/portafolionuevo"
+baseURL = "https://robok3000.github.io/"
 languageCode = "es"
 title = "Mi Portafolio"
-theme = "UILite"
+theme = "hugo-uilite"
