@@ -1,5 +1,4 @@
-baseURL = "https://robok3000.github.io/"
-publishDir = "docs"
+baseURL = "https://robok3000.github.io/portafolionuevo"
 languageCode = "es"
 title = "Mi Portafolio"
 theme = "hugo-UILite"
